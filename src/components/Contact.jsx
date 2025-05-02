@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Contact() {
   return (
-    <section id="contact" className="py-20 bg-white px-4">
+    <section id="contact" className="py-20 bg-gradient-to-b from-[#fce7d3] to-[#eac9a5] px-4">
       <h2 className="text-3xl font-bold text-center text-[#761414] mb-6">Contact Us</h2>
       <form className="max-w-lg mx-auto grid gap-4">
         <input
